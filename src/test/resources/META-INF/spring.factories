@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = com.cowantech.\
+    storageaccess.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    cowantech.storageaccess.config.\
+    TestContainersSpringContextCustomizerFactory,com.cowantech.storageaccess.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
